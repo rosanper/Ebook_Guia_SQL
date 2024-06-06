@@ -1,6 +1,13 @@
 # Guia SQL: O Manual Supremo para Iniciantes 
 Este repositóorio é referente ao projeto de gerar um ebook digital com as facilidades das ferramentas de IA. Ele faz parte do bootcamp Santander 2024 - Fundamentos de IA para Devs ministrada pela DIO.
 
+## Ebook
+
+
+[Baixe o Ebook Guia SQL: O Manual Supremo para Iniciantes](https://github.com/rosanper/Ebook_Guia_SQL/blob/main/Guia%20SQL.pdf)  
+
+
+[Arquivo para edição](https://github.com/rosanper/Ebook_Guia_SQL/blob/main/Guia%20SQL.pptx)
 
 ## Sobre o Ebook
 Este ebook foi gerado com a ajuda de uma Inteligência Artificial (IA) para fornecer uma introdução abrangente ao SQL, direcionada a iniciantes na programação. O conteúdo abrange desde os conceitos básicos de bancos de dados relacionais até comandos avançados de SQL e gerenciamento de transações.
